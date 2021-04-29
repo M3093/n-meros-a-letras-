@@ -1,3 +1,5 @@
+// Programa de pasar de numeros a letas, tiene la función de introducir un número de 0-999 y dar la función de nombre de dicho número// 
+
 #include <string>
 #include <iostream>
 
